@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-
+//A SpringBoot application
 @SpringBootApplication
 @ComponentScan("de.codecentric.sample")
 public class SampleApplication {
